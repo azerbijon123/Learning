@@ -1,0 +1,11 @@
+Classification of patterns:
+---------------------------
+
+Good quote: "You can make an intersection safer by either installing some traffic lights or building an entire mult0level interchange with underground passages for pedestrians".
+
+The general pattern categories:
+- Creational patterns provide object creation mechanisms that increase flexibility and reuse of existing code: Meaning: They provide a way for you to create objects that make them more flexible without duplicating code.
+
+- Structural patterns explain how to assemble objects and classes into larger structures, while keeping the structures flexible and efficient.
+
+Behavioral patterns take care of effective communication and the assignment of responsibilities between objects.
